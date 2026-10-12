@@ -156,3 +156,11 @@ main { flex: 1; display: flex; flex-direction: column; min-height: 0; }
   .review td.q { width: auto; }
 }
 @media (prefers-reduced-motion: reduce) { .progress { transition: none; } }
+
+/* tableaux de données (raisonnement numérique) */
+.text table.data { width: 100%; border-collapse: separate; border-spacing: 3px; margin: 0 0 16px; font-size: .95em; }
+.text table.data th { background: #a96fa8; color: #fff; font-weight: 700; padding: 6px 8px; text-align: center; }
+.text table.data th:first-child { text-align: left; }
+.text table.data td { background: #f2f2f2; padding: 5px 8px; }
+.text table.data td.num { text-align: center; background: #e6e6e6; white-space: nowrap; }
+.text table.data tr.total td { font-weight: 700; }

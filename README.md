@@ -2,7 +2,7 @@
 
 Статический сайт-симулятор épreuve d'aptitude générale (группа A1): одна страница на вопрос, таймер, автоматическое завершение по времени, разбор ответов с объяснениями на русском.
 
-Блоки: Scales Verbal (49 вопросов / 12 мин), Raisonnement verbal, Planification, Jugement situationnel (Conseiller и Servir le client-usager), примеры численного и абстрактного рассуждения.
+Блоки: Scales Verbal (49 вопросов / 12 мин), Raisonnement verbal, Planification, Jugement situationnel (Conseiller и Servir le client-usager), примеры численного и абстрактного рассуждения, численное рассуждение «Казино» (45 вопросов на русском, 2 части).
 
 ## Публикация на GitHub Pages
 
